@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountDracula</string>
+    <string name="no_camera_access">No access to camera</string>
+</resources>
